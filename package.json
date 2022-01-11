@@ -1,6 +1,6 @@
 {
   "name": "pswd-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptographically-secure password generator written in Typescript with zero dependency.",
   "main": "build/index.js",
   "scripts": {
