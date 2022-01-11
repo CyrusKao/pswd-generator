@@ -1,0 +1,25 @@
+{
+  "name": "pswd-generator",
+  "version": "1.0.0",
+  "description": "Cryptographically-secure password generator written in Typescript with zero dependency.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyrusKao/pswd-generator"
+  },
+  "keywords": [
+    "Password"
+  ],
+  "author": "Cyrus Kao",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@typescript-eslint/eslint-plugin": "^5.9.1",
+    "@typescript-eslint/parser": "^5.9.1",
+    "eslint": "^8.6.0",
+    "typescript": "^4.5.4"
+  }
+}
