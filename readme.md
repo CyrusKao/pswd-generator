@@ -1,6 +1,6 @@
 # PSWD Generator
 
-Cryptographically-secure password generator written in Typescript with zero dependency.
+Cryptographically-secure password generator written in Typescript with zero dependencies.
 
 > See how it's implemented at [my blog post](https://nocache.org/p/build-a-cryptographically-secure-password-generator-in-node-js-with-typescript).
 
